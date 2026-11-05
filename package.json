@@ -50,8 +50,16 @@
     "lsp",
     "mcp"
   ],
-  "author": "",
+  "author": "ojbkxc",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojbkxc/lsp-mcp.git"
+  },
+  "homepage": "https://github.com/ojbkxc/lsp-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/ojbkxc/lsp-mcp/issues"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.32.2",
     "lru-cache": "^11.5.3",
